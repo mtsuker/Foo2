@@ -1,1 +1,1 @@
-just learning GIT - mt
+just learning GIT MyGitTestFile.txt - mt
